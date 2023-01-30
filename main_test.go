@@ -59,4 +59,5 @@ func Test_Consistent_Hashing_With_Bounded_Loads(t *testing.T) {
 	c.Done(host)
 	c.Done(host)
 	c.Done(host)
+
 }
